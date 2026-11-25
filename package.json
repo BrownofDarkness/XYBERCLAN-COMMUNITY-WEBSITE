@@ -12,8 +12,8 @@
     "start": "next start",
     "lint": "biome check .",
     "format": "biome format --write .",
-    "typecheck": "tsc --noEmit",
-    "preinstall": "npx --yes only-allow pnpm"
+    "typecheck": "next typegen && tsc --noEmit",
+    "preinstall": "npx --yes only-allow@1.2.2 pnpm"
   },
   "dependencies": {
     "@gsap/react": "2.1.2",
