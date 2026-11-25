@@ -1,0 +1,5 @@
+/* XYB-002: only the two hero colours. The full system lands in XYB-011. */
+:root {
+  --ground: #f7f7f2;
+  --ink: #232823;
+}

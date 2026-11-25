@@ -1,0 +1,5 @@
+# Single-package repo: this file only holds pnpm settings.
+# Both packages ship prebuilt binaries per platform (optional deps), so their install scripts are not needed.
+ignoredBuiltDependencies:
+  - "@parcel/watcher"
+  - "@swc/core"

@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "./tokens.css";
+
+@theme inline {
+  --color-ground: var(--ground);
+  --color-ink: var(--ink);
+}
+
+body {
+  background-color: var(--ground);
+  color: var(--ink);
+}
