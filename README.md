@@ -16,10 +16,10 @@ Node 22 LTS (see `.nvmrc`), pnpm only (`npm install` is blocked on purpose). Oth
 
 ## Read first
 
+- [PRODUCT.md](PRODUCT.md) — the real facts about the clan. Every fact on the site comes from there.
 - [Creative direction](docs/creative-direction.md) — the idea, colours, type, motion and house rules.
 - [Ticket board](tickets/README.md) — 59 tickets in build order, one file / one issue / one PR.
 - [Team plan](docs/team-plan.md) — 7 developers, 7 lanes, 6 sprints.
-- [PRODUCT.md](PRODUCT.md) — the real facts about the clan (XYB-001, to be written).
 - [CONTRIBUTING.md](CONTRIBUTING.md) — how to pick a ticket and open a PR (XYB-004, to be written).
 
 Until CONTRIBUTING.md lands: take the next ticket in your lane whose dependencies are merged, say "I'm on it" on its issue, and build it.
