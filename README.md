@@ -8,10 +8,11 @@ The home of the Xyberclan community on the web, designed and built by its own me
 
 ## Where to start
 
-1. Read the [creative direction](docs/creative-direction.md): the idea, colours, type, motion and house rules.
-2. Find your lane in the [team plan](docs/team-plan.md): 7 developers, 7 lanes, 6 sprints of 2 weeks.
-3. Open the [ticket board](tickets/README.md): 59 tickets, in build order, from the empty repo to launch.
-4. Take the next ticket in your lane whose dependencies are merged, say "I'm on it" on its issue, and build it.
+1. Read [PRODUCT.md](PRODUCT.md): the real facts about the clan. Every fact on the site comes from there.
+2. Read the [creative direction](docs/creative-direction.md): the idea, colours, type, motion and house rules.
+3. Find your lane in the [team plan](docs/team-plan.md): 7 developers, 7 lanes, 6 sprints of 2 weeks.
+4. Open the [ticket board](tickets/README.md): 59 tickets, in build order, from the empty repo to launch.
+5. Take the next ticket in your lane whose dependencies are merged, say "I'm on it" on its issue, and build it.
 
 The site is **bilingual, English and French, from day one** (XYB-006). Every PR shows both languages.
 
